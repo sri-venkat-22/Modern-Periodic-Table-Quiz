@@ -9,7 +9,7 @@ int main()
     struct Element elements[118];
     initializeElements(elements);
     start :
-    //  MENU AFTER RUNNING THE CODE
+    //  MENU AFTER RU jh hNNING THE CODE
     printf("WELCOME TO THE MODERN PERIODIC TABLE\n\n");
     printf("> Enter 1 to know about the element\n");
     printf("> Enter 2 to take a quiz on periodic table\n");
